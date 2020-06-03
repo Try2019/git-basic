@@ -29,3 +29,7 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+1、https://github.com/Try2019/git-basic.git
+2、`add` means turn the status of untrack file into staged, `commit`  means confirm
+the change, `push` means put all staged files in your Github account.
